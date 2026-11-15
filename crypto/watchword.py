@@ -1,3 +1,4 @@
+# Third-party solver from the CSCTF 2026 archive (authorship unknown); flags redacted here if present.
 import json, sys
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 

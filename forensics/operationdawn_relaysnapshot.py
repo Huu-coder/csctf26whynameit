@@ -1,3 +1,4 @@
+# Third-party solver from the CSCTF 2026 archive (authorship unknown); flags redacted here if present.
 #!/usr/bin/env python3
 """Recover the flag's linked list from relay.core; no dependencies."""
 import struct

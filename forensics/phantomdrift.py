@@ -1,3 +1,4 @@
+# Third-party solver from the CSCTF 2026 archive (authorship unknown); flags redacted here if present.
 import hashlib, json, math, re
 
 # 1. Approved waypoint from the manifest
