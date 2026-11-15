@@ -19,6 +19,8 @@ ics/          ICS / OT PoCs
 misc/         Misc PoCs
 mobile/       Mobile PoCs
 osint/        OSINT PoCs
+community-writeups/  Third-party writeups/solvers from the post-event archive (NOT WhyN@m31t's
+                      work; flags redacted; see community-writeups/README.md)
 ```
 
 ## Notes
